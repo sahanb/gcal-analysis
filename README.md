@@ -2,7 +2,7 @@
 
 ## Description
 
-This script queries events from google calendar, filter them based on color coding and description, aggregates them on a weekly basis and plots weekly aggregates.
+This script queries events from google calendar, filters them based on color coding and description, aggregates them on a weekly basis and plots the weekly aggregates.
 
 My use cases are:
  - filtering the event descriptions for running indications and adding up distances run in a given week
